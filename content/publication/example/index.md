@@ -18,7 +18,7 @@ url_source: ""
 url_video: ""
 publication: ""
 featured: true
-date: 2021-12-03T13:47:56.400Z
+date: 2019-12-01T13:51:00.000Z
 url_slides: ""
 title: "Distance-based vertex identification in graphs: The outer multiset dimension"
 tags: []

@@ -26,5 +26,5 @@ education:
 superuser: true
 highlight_name: true
 title: Reynaldo Gil Pons
-email: ""
+email: "reynaldo.gilpons@uni.lu"
 ---
